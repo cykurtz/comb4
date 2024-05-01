@@ -1,5 +1,5 @@
 # comb4
-comb4.pl is the program that generates comb4.txt. The program steps through the grid(boggle style) recording each combination possible without regard to repetition and then filters out all dupes before writing to comb4.txt. The program prints intermediate results to the screen for troubleshooting.
+comb4.pl is the program that generates comb4.txt. The program steps through a 3x3 grid(boggle style) recording each combination possible without regard to repetition and then filters out all dupes before writing to comb4.txt. The program prints intermediate results to the screen for troubleshooting.
 
 comb4.txt is the output, simply a tab-separated listing of the 496 combinations.
 
