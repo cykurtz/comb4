@@ -6,3 +6,4 @@ comb4.txt is the output, simply a tab-separated listing of the 496 combinations.
 The boggle rule, as it is used here, means that every selection must be adjacent to the previous selection - vertically, horizontally, or diagonally.
 
 findem.pl is a perl program to discover and record the four letter words in a 3x3 grid containing nine letters. The program uses each four digit combination in comb4.txt to select a 'word' from the grid and compares each 'word' against a file containing roughly 3000 four-letter words. The grid and discovered words are displayed to the screen and written to a file.
+I was seeing a lot of names so I grabbed another word list from wordnik here on github. A lot more wosrds(5000.vs.3000) but no names.
